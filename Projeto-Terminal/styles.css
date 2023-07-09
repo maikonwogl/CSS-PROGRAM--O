@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 1;
+    box-sizing: border-box;
+}
+
+.div{
+    background-color: aqua;
+}
+
+.main{
+    color: yellow;
+}
+
+.input{
+    color: green;
+}
