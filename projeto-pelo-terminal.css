@@ -10,6 +10,9 @@ input{
 }
 img{
     width: 50%;
-    height: 55%;
+    height: 59%;
     color: white;
+}
+a{
+    color: black;
 }
